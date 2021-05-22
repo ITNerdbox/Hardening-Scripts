@@ -1,4 +1,4 @@
-# Hardening Tools
+# Hardening Scripts
 
 ### PHP Configuration Analyzer
 This script will analyze a specific php.ini file and will make security and performance recommendations.
